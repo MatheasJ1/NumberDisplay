@@ -19,3 +19,6 @@ anything.
 and resets to 0.
 
 10.Error: non-static method getValue() cannot be referenced from a static context.
+
+11. Error: '.class' expected. It's because of int and how the compiler reacts to seeing 
+type in a method call
