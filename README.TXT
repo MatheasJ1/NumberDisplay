@@ -1,14 +1,21 @@
-Project: number-display
-Authors: Michael Kölling and David J. Barnes
+lab 3:
 
-This project is part of the material for the book
+1.
 
-   Objects First with Java - A Practical Introduction using BlueJ
-   Seventh edition
-   David J. Barnes and Michael Kölling
+2.When new classes are created. 
+The diagram changes depending on the links between the new classes.
 
-It is discussed in chapter 3.
+3. When new objects are created. 
 
-To use this project, create an instance of class NumberDisplay. Then inspect this 
-instance and leave the inspector window open. With the inspector window open, 
-call the object's methods, such as increment and setValue.
+4. public Instructor tutor;
+
+6. create a conditional to increment hours by one when minutes is equal to 60.
+and also set the value of minutes back to 0. (simulates an hour change).
+
+8.No, only the first one which changed it to three but the second one didn't do
+anything.
+
+9. The result of the get value will be 0 since the rollover method triggers at the number 10
+and resets to 0.
+
+10.Error: non-static method getValue() cannot be referenced from a static context.

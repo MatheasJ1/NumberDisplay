@@ -30,6 +30,7 @@ public class NumberDisplay
      */
     public int getValue()
     {
+        System.out.println(value);
         return value;
     }
 
@@ -56,6 +57,7 @@ public class NumberDisplay
     {
         if((replacementValue >= 0) && (replacementValue < limit)) {
             value = replacementValue;
+            System.out.println(value);
         }
     }
 
