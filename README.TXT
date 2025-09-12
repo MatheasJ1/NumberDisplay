@@ -31,3 +31,5 @@ type in a method call
 18. It just shows a 0 it's like the program doesn't register it.
 
 19. No there isn't any difference.
+
+20. No as they are pretty logical and make alot of sense as to why they print this way.
