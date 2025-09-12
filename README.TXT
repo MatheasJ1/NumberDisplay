@@ -22,3 +22,12 @@ and resets to 0.
 
 11. Error: '.class' expected. It's because of int and how the compiler reacts to seeing 
 type in a method call
+
+15. !false and (34 !=33) && ! false
+
+16. boolean result = (a && b) || (a && b)
+17. boolean result = (a && !b) || (!a && b)
+
+18. It just shows a 0 it's like the program doesn't register it.
+
+19. No there isn't any difference.
